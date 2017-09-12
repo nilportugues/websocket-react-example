@@ -1,4 +1,4 @@
-## Websocket Server meets Express w/ react Server.
+## Websocket Server with React Server.
 
 ## How to run
 
