@@ -12,4 +12,3 @@
 - reactjs
 - socket.io
 - socket.io client
-- expressjs
