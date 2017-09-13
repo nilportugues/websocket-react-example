@@ -1,0 +1,11 @@
+{
+  "name": "websocket-server",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "socket.io": "^2.0.3"
+  },
+  "scripts": {
+    "websockets": "node server.js"
+  }
+}
